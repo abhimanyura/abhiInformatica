@@ -16,10 +16,10 @@
         "value" : "3lsoYOe86QOkKKSenI2nYM"
       }, {
         "name" : "version",
-        "value" : "1"
+        "value" : "2"
       } ],
       "additionalInfo" : {
-        "description" : "SIUIAutomation_Kafka to SIUIAutomation_KinesisStream",
+        "description" : "SIUIAutomation_Kafka to SIUIAutomation_KinesisStream_1",
         "contentType" : null,
         "documentState" : "COMPLETE"
       }
